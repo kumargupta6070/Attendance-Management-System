@@ -1,0 +1,1 @@
+Attendance management system using JavaScript, CSS and HTML. This website is fully responsive you can see this website in your phone, tablet, and laptop and big thing is this website is live on google you can check by using this link https://kuma-attendance-management-system.netlify.app/
